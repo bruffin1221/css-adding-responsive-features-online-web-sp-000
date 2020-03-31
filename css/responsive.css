@@ -9,5 +9,24 @@
     right: 4px;
   }
 
+}
+@media only and (max-width: 900) {
+ body{
+   font-size: 85%
+ }
 
+ #logo h1{
+   height: 35px;
+   width: 35px;
+ }
+
+ #logo h2{
+     font: 2.2em "Clicker Script", cursive;
+ }
+
+ #social{
+   top:72px;
+ }
+
+  
 }
