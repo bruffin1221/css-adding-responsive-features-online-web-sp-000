@@ -1,4 +1,4 @@
-@medie only screen and(max-width: 1100) {
+@medie only screen and(max-width: 1108px) {
   .wrapper {
     width: 90%
   }
